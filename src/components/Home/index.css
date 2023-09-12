@@ -1,0 +1,185 @@
+.slider-container{
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.birthday-image{
+    width: 100%;
+    height: 40vh;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.birthday-sale-container{
+    width: 100%;
+    background-image: url("https://headsupfortails.com/cdn/shop/files/section_bg.png?v=1693558963");
+    background-size: 100% 100%;
+    padding: 32px 0px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.unordered-list-birthday-images{
+    width: 100%;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.each-birthday-list-item{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+.unordered-list-food-images{
+    width: 100%;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.each-food-list-item{
+    width: 20%;
+    flex-grow: 1;
+    height: 100px;
+    margin: 10px;
+}
+.each-sub-image-item{
+    width: 100%;
+}
+.title{
+    line-height: 36px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.wholesome-love-container{
+    width: 100%;
+    margin-bottom: 90px;
+    padding: 10px;
+}
+.special-image-container{
+    width: 100%;
+    height: 30vh;
+    padding: 10px;
+    margin-bottom: 60px;
+}
+.special-image{
+    width: 100%;
+   
+}
+
+.only-two-images-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.first-one{
+    width: 50%;
+    height: 40vh;
+    margin: 5px;
+}
+.only-one{
+    padding: 10px;
+    width: 100%;
+}
+
+.unordered-cats-images{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0px;
+}
+
+.cat-type-images{
+    width: 20%;
+    margin: 5px;
+    flex-grow: 1;
+}
+.cat-type{
+width: 100%;
+
+}
+
+.health-images-container{
+    width: 100%;
+    background: #1B1E28;
+    padding: 24px 0px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.text-container{
+    align-self: center;
+    text-align: center;
+}
+.heading-text{
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.para-text{
+    font-size: 18px;
+    font-weight: 300;
+    color: #fff;
+}
+.carousel-container{
+    margin: 10px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0086/0795/7054/files/bruno_with-girls_1920x1122_415005c2-a143-4599-b61b-651d6fe81262.jpg?v=1688200001");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+}
+
+.carousel-heading{
+    font-size: 36px;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 60px;
+    
+}
+
+.hair-type-item{
+ width: 15%;
+ margin: 10px;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ justify-content: center;
+}
+
+.hair-image{
+    width: 100%;
+}
+
+/* .counter-container{
+    background-image: url("https://headsupfortails.com/cdn/shop/files/Frame_1171280145.png?v=1692872639");
+    width: 100%;
+    height: 0vh;
+    background-size: cover;
+    margin: 10px;
+    border-radius: 10px;
+    padding-top: 70px;
+    padding-left: 60px;
+} */
