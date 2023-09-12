@@ -1,0 +1,57 @@
+.my-images-width{
+   width: 150px;
+    height: 150px;
+    flex-grow: 1;
+    margin-left: 80px;
+    text-align: center;
+    
+}
+.total-food-container{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 97%;
+    height: 50vh;
+   
+}
+
+.container-bg-color-1{
+    background-color: #F2FBFF;
+}
+
+.container-bg-color-2{
+    background-color: #FFF4EB;
+}
+
+
+.heading6{
+    font-size: 24px;
+    line-height: 36px;
+}
+.image-container{
+    width: 20%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.food-heading{
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.food-para{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+.slick-prev.inactive-button,
+.slick-next.inactive-button {
+  background-color: gray; /* Set an inactive background color */
+  cursor: not-allowed; /* Change cursor to 'not-allowed' to indicate inactivity */
+  pointer-events: none; /* Disable pointer events for the button */
+}
