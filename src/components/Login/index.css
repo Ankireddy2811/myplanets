@@ -1,0 +1,64 @@
+.login-bg-container {
+    background-color: #f9f9f9;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .form-container {
+    width:250px;
+    max-width:1110px;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  .logo-image {
+    width: 50%;
+    align-self: center;
+  }
+  .input-ele1 {
+    width: 90%;
+    padding: 8px;
+    outline: none;
+  }
+  .label-ele {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: bold;
+    color: #181818;
+    margin-top: 20px;
+  }
+  .checkbox-open-container{
+    display: flex;
+    align-items: center;
+  }
+  .checkbox-Ele {
+    margin-top: 23px;
+    margin-right: 7px;
+  }
+  .submit-button{
+    width: 100%;
+    background-color: #4f46e5;
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: bold;
+    color: #f9f9f9;
+    text-align: center;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .note{
+    font-size: 10px;
+    color: red;
+  }
